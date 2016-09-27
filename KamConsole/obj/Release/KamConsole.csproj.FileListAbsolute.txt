@@ -1,0 +1,10 @@
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KamConsole\bin\Release\KamConsole.exe
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KamConsole\bin\Release\KamConsole.pdb
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KamConsole\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KamConsole\obj\Release\KamConsole.exe
+C:\Documents and Settings\Kamil\Ustawienia lokalne\Dane aplikacji\Temporary Projects\KamConsole\obj\Release\KamConsole.pdb
+K:\Projekty\C# Apps\KamConsole\KamConsole\obj\Release\KamConsole.exe
+K:\Projekty\C# Apps\KamConsole\KamConsole\obj\Release\KamConsole.pdb
+K:\Projekty\C# Apps\KamConsole\KamConsole\bin\Release\KamConsole.exe
+K:\Projekty\C# Apps\KamConsole\KamConsole\bin\Release\KamConsole.pdb
+K:\Projekty\C# Apps\KamConsole\KamConsole\obj\Release\ResolveAssemblyReference.cache

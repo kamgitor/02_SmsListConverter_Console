@@ -1,0 +1,5 @@
+K:\Projekty\C# Apps\KamConsole\KamConsole\bin\Debug\KamConsole.exe
+K:\Projekty\C# Apps\KamConsole\KamConsole\bin\Debug\KamConsole.pdb
+K:\Projekty\C# Apps\KamConsole\KamConsole\obj\Debug\ResolveAssemblyReference.cache
+K:\Projekty\C# Apps\KamConsole\KamConsole\obj\Debug\KamConsole.exe
+K:\Projekty\C# Apps\KamConsole\KamConsole\obj\Debug\KamConsole.pdb

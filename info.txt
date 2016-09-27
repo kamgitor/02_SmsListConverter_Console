@@ -1,0 +1,9 @@
+
+Dziala
+
+Konwertuje plik sms.csv generowany przez aplikacje sms2txt na adnroida
+oddzielone przecinkami, przecinki zamienia na sredniki, a po 5tym przecinki juz nie zamienia
+Sredniki ktore sa w oryginale zamienia na '_'
+tworzy plik wyjsciowy wyjscie.txt
+
+
